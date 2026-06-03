@@ -1,7 +1,7 @@
 # A Pan-squamous Fine-grained Differentiation Benchmark for Systematically Pathological Diagnosis Reasoning
 
 ## 🤹 Authors [*Corresponding author]
-- Pan Huang, Yiwen Wang, Lan Wang, Guoqing Fu, Zhenglin Ji, Xinwei Zhang, Zheng Gu, Chentao Li*, Mingrui Ma*, Yifang Ping*, and Jing Qin*
+- Pan Huang*, Yiwen Wang, Xinwei Zhang, Guoqing Fu, Zhenglin Ji, Zheng Gu, Chi Zhang*, Xinyu Hao*, Cheng Chen*, and Chentao Li*
 
 ## :fire: News
 - [xxxx/xx/xx]  _xxx_.
