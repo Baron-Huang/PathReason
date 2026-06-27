@@ -1,4 +1,4 @@
-# PathReason enables Structured Pathological Reasoning for Pan-squamous Fine-grained Differentiation
+# DiffeReason enables Structured Pathological Reasoning for Pan-squamous Fine-grained Differentiation
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Yiwen Wang, Xinwei Zhang, Guoqing Fu, Zhenglin Ji, Zheng Gu, Qiye Chen, Francesco Mercaldo, Antonella Santone, Chi Zhang*, Cheng Chen*, and Chentao Li*
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively-interpretable Clustering with Counterfactual-interaction Mixing Circuits (PathReason)** method:
+Here's an overview of our **Actively-interpretable Clustering with Counterfactual-interaction Mixing Circuits (DiffeReason)** method:
 
 ![Figure 1](./images/xxx.png)
 
