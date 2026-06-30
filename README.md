@@ -1,6 +1,6 @@
 # DiffeReason Enables Standardized Pathological Reasoning for Pan-squamous Fine-grained Differentiation
 ## 🤹 Authors [*Corresponding author]
-- Pan Huang, Yiwen Wang, Xinwei Zhang, Guoqing Fu, Zhenglin Ji, Zheng Gu, Qiye Chen, Andi Liu, Francesco Mercaldo, Antonella Santone, Chi Zhang*, Cheng Chen*, Chentao Li*, and Xiaohan Xing*
+- Pan Huang, Yiwen Wang, Xinwei Zhang, Guoqing Fu, Zhenglin Ji, Zheng Gu, Qiye Chen, Andi Liu, Francesco Mercaldo, Antonella Santone, Chi Zhang*, Cheng Chen*, Chentao Li*, Jing Qin, and Jun Shi*
 
 ## :fire: News
 - [xxxx/xx/xx]  _xxx_.
@@ -11,7 +11,7 @@
 
 Here's an overview of our **Actively-interpretable Clustering with Counterfactual-interaction Mixing Circuits (DiffeReason)** method:
 
-![Figure 1](./images/xxx.png)
+![Figure 1](./images/Figure_1.jpg)
 
 Here's some exciting experimental results of both active interpretbility and passive interpretabiity that explain both decision-making process and outcome contribution:
 
